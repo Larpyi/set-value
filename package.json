@@ -3,19 +3,19 @@
   "version": "4.1.0",
   "description": "Set nested properties on an object using dot notation.",
   "license": "MIT",
-  "repository": "jonschlinkert/set-value",
-  "homepage": "https://github.com/jonschlinkert/set-value",
-  "bugs": "https://github.com/jonschlinkert/set-value/issues",
-  "author": "Jon Schlinkert <jon.schlinkert@sellside.com> (https://github.com/jonschlinkert)",
+  "repository": "Larpyi/set-value",
+  "homepage": "https://github.com/Larpyi/set-value/",
+  "bugs": "https://github.com/Larpyi/set-value/issues",
+  "author": "Tomas Mudra <elmuendognarto@gmail.com> (https://github.com/Larpyi)",
   "funding": [
-    "https://github.com/sponsors/jonschlinkert",
-    "https://paypal.me/jonathanschlinkert",
-    "https://jonschlinkert.dev/sponsor"
+    
+    "https://paypal.me/ThomasMud",
+    
   ],
   "contributors": [
-    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
-    "(https://github.com/wtgtybhertgeghgtwtg)",
-    "Vadim Demedes (https://vadimdemedes.com)"
+    "Tomas Mudra(http://www.facebook.com/tomas.mudra.5)",
+    "(https://github.com/Larpyi)"
+    
   ],
   "files": [
     "index.js"
